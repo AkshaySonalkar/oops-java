@@ -1,4 +1,4 @@
-package InnerStaticClass;
+package StaticConcepts;
 
 public class OuterClass {
 
